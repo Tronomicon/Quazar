@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Get Request Retrofit</string>
+    <string name="score">score</string>
+    <string name="_0">_0</string>
+    <string name="quit">quit</string>
+    <string name="name_this_location">name this location</string>
+    <string name="everest">everest</string>
+    <string name="moon_world">moon_world</string>
+    <string name="yellow_stone">yellow_stone</string>
+</resources>
